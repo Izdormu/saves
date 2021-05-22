@@ -10,9 +10,11 @@
     &__btns{
         margin-top: 25px;
         display: flex;
+        align-items: center;
         justify-content: space-between;
         width: 250px;
-        align-items: center;
+        
+       
 
     }
     &__link{
