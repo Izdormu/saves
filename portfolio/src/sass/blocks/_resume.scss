@@ -31,7 +31,8 @@
                 &:after{
                     content:'';
                     width: 1px;
-                    height: calc(100% + 16px);
+                    // height: calc(100% + 16px);
+                    height: 100%;
                     position: absolute;
                     top: -16px;
                     background-color:black;
